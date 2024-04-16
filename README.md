@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
   <img src ="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white">
   <img src ="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white">
   <img src ="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white">
+  <img src ="https://img.shields.io/badge/Git-ef4f2f?style=flat-square&logo=git&logoColor=white">
 </p>
   
   
