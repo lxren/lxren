@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 # hello my name is lily <img src="https://github.com/lxren/lxren/assets/167150651/d0fa398d-1f80-4265-8566-35e29bff3551" width="50px">
 
 <p>
+  <img src ="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
   <img src ="https://img.shields.io/badge/PyTorch-ed4a27?style=flat-square&logo=pytorch&logoColor=white">
   <img src ="https://img.shields.io/badge/Git-ef4f2f?style=flat-square&logo=git&logoColor=white">
   <img src ="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white">
