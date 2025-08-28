@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
   <img src ="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white">
   <img src ="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white">
   <img src ="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white">
+  <img src ="https://img.shields.io/badge/Pandas-130654?style=flat-square&logo=pandas&logoColor=white">
   <img src ="https://img.shields.io/badge/ScikitLearn-3499cd?style=flat-square&logo=scikitlearn&logoColor=white">
   <img src ="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white">
-  <img src ="https://img.shields.io/badge/Pandas-130654?style=flat-square&logo=pandas&logoColor=white">
 </p>
   
   
